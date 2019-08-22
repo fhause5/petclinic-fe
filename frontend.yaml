@@ -11,7 +11,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: snap032/frontend:1
+        image: snap032/frontend:2
         ports:
         - containerPort: 80
 ---
